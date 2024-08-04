@@ -28,3 +28,5 @@ const Button = ({ children, buttonType, btnOptions }) => {
 }
 
 export default Button;
+
+export { BUTTON_TYPE_CLASSES };
